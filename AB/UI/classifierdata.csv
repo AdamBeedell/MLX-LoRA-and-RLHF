@@ -1,0 +1,689 @@
+﻿prompt,expert
+What is the derivative of x^2?,4
+Integrate x dx,4
+What is the value of π?,4
+Solve for x: 2x + 5 = 11,4
+Factor the expression: x^2 - 5x + 6,4
+What is the area of a circle with radius 4?,4
+Simplify: (2x + 3x) - (x - 1),4
+Evaluate: 3^4,4
+What is the slope of the line y = 2x + 1?,4
+Find the limit: lim(x→0) (sin x)/x,4
+Differentiate: sin(x),4
+Integrate: e^x dx,4
+What is the square root of 144?,4
+Expand: (x + 2)^2,4
+What is the probability of flipping heads twice in a row?,4
+Convert 45° to radians,4
+What is 7 factorial (7!)?,4
+Graph the function: y = x^2,4
+Find the volume of a sphere with radius r,4
+Is 23 a prime number?,4
+Solve: x^2 = 49,4
+"What is the mean of the numbers 4, 7, 9, 10?",4
+"Find the median of the list: 3, 5, 7, 9, 11",4
+What is the standard deviation?,4
+"Find the determinant of [[1,2],[3,4]]",4
+"Transpose the matrix [[1,2],[3,4]]",4
+Evaluate: ln(e^5),4
+Find the inverse of y = 2x + 3,4
+"Is the function y = x^3 even, odd, or neither?",4
+Plot the function: y = sin(x),4
+Find the asymptotes of y = 1/x,4
+Solve: log(x) = 2,4
+What is the domain of √(x-3)?,4
+"Is the sequence 2, 4, 6, 8 arithmetic or geometric?",4
+"Find the nth term of the geometric sequence: 2, 6, 18, ...",4
+Differentiate: ln(x),4
+Integrate: 1/x dx,4
+Find the area under y = x from 0 to 2,4
+Solve the inequality: x^2 - 4 > 0,4
+"Find the equation of a line through (1,2) and (3,6)",4
+Calculate the cosine of 60°,4
+What is the sum of the interior angles of a triangle?,4
+Prove that √2 is irrational,4
+Find the derivative of tan(x),4
+Evaluate the definite integral ∫₀¹ x^2 dx,4
+Simplify: (x^2y)(xy^3),4
+Find the range of the function y = x^2,4
+Convert 0.75 to a fraction,4
+Differentiate: e^(2x),4
+Integrate: cos(x) dx,4
+Find the center and radius of the circle x^2 + y^2 = 25,4
+Find the solution set of x^2 - 9 = 0,4
+Graph the inequality y < 2x + 1,4
+Convert 2π radians to degrees,4
+"What is the binomial coefficient C(5, 2)?",4
+"Solve the system: x + y = 5, x - y = 1",4
+Find the roots of the quadratic: x^2 + 2x - 3,4
+What is the value of sin(π/2)?,4
+"Find the inverse of matrix [[2,0],[0,3]]",4
+Evaluate the series: ∑(n=1 to ∞) 1/n^2,4
+Prove that (a+b)^2 = a^2 + 2ab + b^2,4
+"Write the equation of a parabola with vertex at (0,0)",4
+What is the derivative of a constant?,4
+Find the equation of the tangent line at x=1 for y = x^2,4
+Solve for x: |x - 3| = 5,4
+Find the circumference of a circle with diameter 10,4
+Differentiate: x^x,4
+Integrate: sec^2(x) dx,4
+Find the angle between two vectors,4
+"Evaluate the dot product of [1,2] and [3,4]",4
+"Find the eigenvalues of [[2,1],[1,2]]",4
+"Determine if matrix [[1,2],[2,4]] is invertible",4
+What is the sum of the first 100 natural numbers?,4
+Find the 10th Fibonacci number,4
+Solve: 2^x = 8,4
+Differentiate: x / (x+1),4
+Evaluate: ∫ x sin(x) dx,4
+"Find the equation of the circle with center (2,3) and radius 5",4
+What is the value of cos(π)?,4
+Find the maximum of f(x) = -x^2 + 4x + 1,4
+Evaluate the determinant of a 3x3 matrix,4
+Solve: x^3 = 27,4
+Convert 100 binary to decimal,4
+What is the LCM of 12 and 18?,4
+What is the GCD of 30 and 45?,4
+Find the derivative of arctan(x),4
+Integrate: sqrt(x) dx,4
+Is the function f(x) = |x| differentiable at x = 0?,4
+Find the arc length of y = x^2 from x=0 to x=1,4
+Graph y = |x - 2|,4
+Find the slope of a line perpendicular to y = -3x + 2,4
+Evaluate: ∫₀^π sin(x) dx,4
+What is the value of tan(π/4)?,4
+Find the critical points of f(x) = x^3 - 3x,4
+Solve the equation: x^4 = 16,4
+Differentiate: sin(x^2),4
+Evaluate: lim(x→∞) 1/x,4
+Find the probability of drawing an ace from a deck,4
+Convert 30% to a decimal,4
+"Find the mode of the dataset: 3, 4, 4, 5, 6",4
+"Calculate the z-score for x = 90, μ = 80, σ = 5",4
+¿Cómo preparo una paella?  ,1
+¿Qué significa esta palabra?  ,1
+Wie funktioniert eine Kaffeemaschine?  ,1
+Was ist der Unterschied zwischen HTML und CSS?  ,1
+Come faccio a creare un account email?  ,1
+Qual è la capitale della Grecia?  ,1
+今日は何曜日ですか？  ,1
+東京は今何時ですか？  ,1
+오늘 날씨 어때요?  ,1
+이 문장을 영어로 번역해 주세요.  ,1
+ما هو معنى هذه الكلمة؟  ,1
+كيف أطبخ الأرز؟  ,1
+这个汉字怎么读？  ,1
+怎么安装这个软件？  ,1
+Как приготовить борщ?  ,1
+Что такое блокчейн?  ,1
+Como faço login na minha conta?  ,1
+O que é um algoritmo?  ,1
+मैं पासवर्ड कैसे बदलूं?  ,1
+भारत की राजधानी क्या है?  ,1
+¿Cuál es el mejor libro para aprender Python?  ,1
+¿Cómo envío un correo electrónico?  ,1
+Wie spät ist es?  ,1
+Wie kann ich meine Dateien sichern?  ,1
+Come si dice 'grazie' in tedesco?  ,1
+Qual è il fiume più lungo del mondo?  ,1
+日本の伝統的な料理は何ですか？  ,1
+渋谷に行くにはどうすればいいですか？  ,1
+서울에서 맛집 추천해 주세요.  ,1
+한국어를 배우고 싶어요.  ,1
+ما هو الطقس في القاهرة؟  ,1
+كيف أكتب سيرة ذاتية جيدة؟  ,1
+这个程序怎么运行？  ,1
+我怎么设置WiFi？  ,1
+Как написать резюме?  ,1
+Как создать таблицу в Excel?  ,1
+Como posso melhorar meu inglês?  ,1
+Qual é a diferença entre Java e JavaScript?  ,1
+मुझे नौकरी कैसे मिलेगी?  ,1
+आपका नाम क्या है?  ,1
+¿Dónde está el baño?  ,1
+¿Qué día es hoy?  ,1
+Was ist ein VPN?  ,1
+Wie kann ich Deutsch lernen?  ,1
+Come posso cambiare la lingua sul mio telefono?  ,1
+Quanto costa un biglietto per Roma?  ,1
+日本の祝日はいつですか？  ,1
+新幹線のチケットをどこで買えますか？  ,1
+서울 지하철 노선도를 보여 주세요.  ,1
+이 앱은 어떻게 사용하나요?  ,1
+ما هي عاصمة لبنان؟  ,1
+أين أجد هذا الكتاب؟  ,1
+请问洗手间在哪里？  ,1
+你会说英文吗？  ,1
+Где находится ближайшая аптека?  ,1
+Какой сегодня день недели?  ,1
+Onde posso pegar um táxi?  ,1
+Como funciona o sistema solar?  ,1
+मैं टिकट कहाँ खरीद सकता हूँ?  ,1
+तुम्हारा पसंदीदा खाना क्या है?  ,1
+¿Cómo se pronuncia esta palabra?  ,1
+¿Qué es una función recursiva?  ,1
+Wie funktioniert ein Kühlschrank?  ,1
+Wie programmiere ich ein einfaches Spiel?  ,1
+Come posso ottenere un passaporto?  ,1
+Come si fa il backup del telefono?  ,1
+漢字はどうやって覚えますか？  ,1
+日本語を話せますか？  ,1
+한국 드라마 추천해 주세요.  ,1
+이 단어 뜻이 뭐예요?  ,1
+كيف أتعلم اللغة الإنجليزية؟  ,1
+ما الفرق بين HTTP و HTTPS؟  ,1
+你喜欢什么运动？  ,1
+我该怎么准备考试？  ,1
+Как работает интернет?  ,1
+Как приготовить пельмени?  ,1
+Qual é a melhor forma de estudar?  ,1
+Como faço para enviar um arquivo?  ,1
+कैसे पता करें कि कंप्यूटर में वायरस है?  ,1
+क्या तुम मेरी मदद कर सकते हो?  ,1
+Comment cuisiner un gratin dauphinois ?,2
+Quelle est la capitale de la Norvège ?,2
+Comment écrire une lettre de motivation ?,2
+Quelle est la différence entre un crocodile et un alligator ?,2
+Comment apprendre à jouer du piano ?,2
+Quels sont les bienfaits du thé vert ?,2
+Comment fonctionne l'énergie solaire ?,2
+Comment améliorer sa mémoire ?,2
+Quel est le meilleur film de tous les temps ?,2
+Comment méditer efficacement ?,2
+Quelles sont les bases de la photographie ?,2
+Comment faire un nœud de cravate ?,2
+Quelle est la recette d’un gâteau au chocolat ?,2
+Comment bien dormir la nuit ?,2
+Quels sont les symptômes de la grippe ?,2
+Comment faire un CV moderne ?,2
+Quelle est la signification du drapeau français ?,2
+Comment fonctionne une éclipse solaire ?,2
+Quels sont les pays francophones ?,2
+Comment recycler correctement ses déchets ?,2
+Comment dire 'bonjour' en japonais ?,2
+Quelle est la distance entre la Terre et la Lune ?,2
+Comment réussir un entretien d'embauche ?,2
+Comment créer un mot de passe sécurisé ?,2
+Quel est le meilleur moment pour planter des tomates ?,2
+Comment calculer une TVA ?,2
+Quels sont les effets du stress sur le corps ?,2
+Comment préparer un smoothie aux fruits rouges ?,2
+Comment prendre une photo de nuit ?,2
+Quelle est la différence entre un virus et une bactérie ?,2
+Comment apprendre une langue étrangère rapidement ?,2
+Quelle est la monnaie du Brésil ?,2
+Comment fonctionne un moteur à combustion ?,2
+Comment faire une capture d’écran sur un ordinateur ?,2
+Quels sont les différents types de nuages ?,2
+Comment économiser de l’argent au quotidien ?,2
+Comment écrire un poème ?,2
+Quelle est la recette traditionnelle de la ratatouille ?,2
+Comment éviter la procrastination ?,2
+Qu’est-ce que le changement climatique ?,2
+Comment faire du pain maison ?,2
+Quels sont les signes du zodiaque ?,2
+Comment fonctionne un ordinateur ?,2
+Comment faire une présentation PowerPoint efficace ?,2
+Quels sont les droits de l’enfant ?,2
+Comment installer une application sur Android ?,2
+Quelle est la hauteur de la Tour Eiffel ?,2
+Comment créer un site web ?,2
+Quelles sont les langues les plus parlées dans le monde ?,2
+Comment bien s’étirer après le sport ?,2
+Quelle est la meilleure manière de se concentrer ?,2
+Comment fonctionne une imprimante 3D ?,2
+Comment faire des économies d’énergie à la maison ?,2
+Comment reconnaître une œuvre impressionniste ?,2
+Quel est le rôle de l’ONU ?,2
+Comment faire une demande de passeport ?,2
+Quelles sont les bases de la programmation ?,2
+Comment écrire une dissertation ?,2
+Comment fonctionne le système digestif ?,2
+Comment reconnaître une étoile filante ?,2
+Quel est le rôle du cerveau ?,2
+Comment bien utiliser les réseaux sociaux ?,2
+Quelles sont les plus grandes inventions françaises ?,2
+Comment fonctionne une voiture électrique ?,2
+Qu’est-ce qu’une démocratie ?,2
+Comment bien organiser son temps ?,2
+Quelle est la meilleure façon d’apprendre à dessiner ?,2
+Comment fonctionne une blockchain ?,2
+Comment faire pousser des plantes en intérieur ?,2
+Quels sont les avantages du télétravail ?,2
+Comment gérer un conflit au travail ?,2
+Quelle est la recette du croissant ?,2
+Comment apprendre les mathématiques autrement ?,2
+Qu’est-ce que l’intelligence artificielle ?,2
+Comment faire un budget personnel ?,2
+Quels sont les bienfaits de la lecture ?,2
+Comment choisir un bon vin ?,2
+Qu’est-ce que l’effet papillon ?,2
+Comment fonctionne une carte bancaire ?,2
+Comment bien préparer un voyage ?,2
+Quelles sont les causes de la pollution de l’air ?,2
+Comment faire une sauvegarde de son téléphone ?,2
+Quelles sont les règles de base du rugby ?,2
+Comment écrire une histoire captivante ?,2
+Comment fonctionne une ampoule LED ?,2
+Quels sont les avantages du yoga ?,2
+Comment apprendre à coder en Python ?,2
+Qu’est-ce qu’un algorithme ?,2
+Comment se préparer à un examen ?,2
+Quelle est la meilleure méthode pour apprendre à lire ?,2
+Comment faire une vidéo YouTube ?,2
+Qu’est-ce qu’un haïku ?,2
+Comment fonctionne un volcan ?,2
+Comment prendre soin d’un chat ?,2
+Quels sont les bienfaits de la marche ?,2
+Comment comprendre les rêves ?,2
+Comment fonctionne Internet ?,2
+Quelles sont les bases de la couture ?,2
+Comment reconnaître un bon fromage ?,2
+Comment créer un podcast ?,2
+Quelles sont les étapes de la digestion ?,2
+Comment bien utiliser un agenda ?,2
+Qu’est-ce que la biodiversité ?,2
+How do I write a for loop in Python?,3
+What's the difference between a list and a tuple?,3
+How do I reverse a string in JavaScript?,3
+What is a null pointer exception?,3
+How can I optimize this SQL query?,3
+How do I center a div in CSS?,3
+What's the best way to handle errors in Python?,3
+How do I install a package with pip?,3
+Why is my code running so slowly?,3
+How do I use Git to roll back a commit?,3
+What's the difference between == and ===?,3
+How do I convert JSON to a dictionary in Python?,3
+How can I make my code more readable?,3
+"What is recursion, and when should I use it?",3
+How do I comment out a block of code in C++?,3
+How do I connect to a database in Node.js?,3
+What is the difference between PUT and POST?,3
+How do I remove duplicates from a list?,3
+How do I check if a variable is null?,3
+How do I loop through a dictionary in Python?,3
+What's the syntax for a lambda function?,3
+How can I write unit tests for my functions?,3
+What is an API and how do I use one?,3
+How do I push my code to GitHub?,3
+Why am I getting a segmentation fault?,3
+How do I split a string by comma?,3
+How do I use map and filter in JavaScript?,3
+What's a closure in programming?,3
+How do I refactor this large function?,3
+How do I debug a memory leak?,3
+How do I read a file line-by-line?,3
+How do I use environment variables?,3
+What's the difference between synchronous and asynchronous?,3
+How do I format a date in JavaScript?,3
+How do I install a virtual environment in Python?,3
+How do I merge two arrays?,3
+How do I convert a string to an int?,3
+How do I handle user input securely?,3
+What is the MVC architecture?,3
+How do I deploy my app to Heroku?,3
+How do I make a responsive web page?,3
+How do I check if a number is prime?,3
+How do I write a regular expression?,3
+How can I reduce the time complexity of this function?,3
+How do I connect to a REST API?,3
+How do I calculate the factorial of a number?,3
+How do I validate an email address?,3
+How do I center text in a flexbox?,3
+What does 'immutable' mean in programming?,3
+How do I write a class in Python?,3
+How do I serialize data to JSON?,3
+How do I remove whitespace from a string?,3
+What's the difference between local and global scope?,3
+How do I pass arguments to a function?,3
+How do I add logging to my application?,3
+How do I create a dropdown in HTML?,3
+How do I redirect a page with JavaScript?,3
+What is the call stack?,3
+How do I paginate results from a database?,3
+How do I install Docker on Windows?,3
+How do I write a recursive function?,3
+How do I filter rows in pandas?,3
+How do I read JSON from a file?,3
+How do I use a dictionary comprehension?,3
+"What is the difference between var, let, and const?",3
+How do I flatten a nested list?,3
+How do I avoid callback hell?,3
+What is a RESTful service?,3
+How do I hash a password?,3
+How do I use async/await?,3
+How do I create a Git branch?,3
+How do I display error messages to users?,3
+How do I run a Python script on startup?,3
+What is the difference between GET and POST?,3
+How do I use SQL joins?,3
+How do I write a binary search algorithm?,3
+How do I mock a function in tests?,3
+How do I convert CSV to JSON?,3
+How do I remove an element from a list?,3
+How do I install Node.js?,3
+How do I create a dropdown menu in React?,3
+How do I stop an infinite loop?,3
+How do I sort a dictionary by value?,3
+How do I handle exceptions in Java?,3
+How do I align items in a grid layout?,3
+How do I define a function in JavaScript?,3
+How do I test an API endpoint?,3
+How do I write a switch statement?,3
+How do I set a timeout in Python?,3
+How do I upload files in Flask?,3
+How do I use list comprehensions?,3
+How do I generate a random number?,3
+How do I avoid SQL injection?,3
+How do I create a login form?,3
+How do I use session variables?,3
+How do I compress a file in Python?,3
+How do I find the max value in a list?,3
+How do I call a function inside another function?,3
+How do I watch a file for changes?,3
+How do I set a breakpoint?,3
+How do I debounce a function call?,3
+How do I use a ternary operator?,3
+How do I convert a timestamp to date?,3
+How do I merge two dictionaries?,3
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0
+What is your favorite color? ,0
+How do you cook spaghetti? ,0
+Where is the nearest coffee shop? ,0
+Why is the sky blue? ,0
+Who invented the telephone? ,0
+When is the next full moon? ,0
+What are the benefits of exercise? ,0
+How do I learn to code? ,0
+Where can I travel on a budget? ,0
+What is the capital of Canada? ,0

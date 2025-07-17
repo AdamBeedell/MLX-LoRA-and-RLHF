@@ -1,0 +1,17 @@
+FROM python:3.10-slim
+
+WORKDIR /app
+
+# Install uv
+RUN pip install --no-cache-dir uv
+
+# Copy dependency files
+COPY ./Ui/pyproject.toml ./Ui/uv.lock /app/
+
+# Install dependencies via uv
+RUN uv sync --system
+
+# Copy app source
+COPY ./Ui /app/Ui
+
+CMD ["streamlit", "run", "Ui/Home.py"]
