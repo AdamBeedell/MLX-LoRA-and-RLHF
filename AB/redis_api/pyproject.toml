@@ -1,0 +1,8 @@
+[project]
+name = "redis_api"
+version = "0.1.0"
+dependencies = [
+    "fastapi",
+    "redis",
+    "uvicorn"
+]

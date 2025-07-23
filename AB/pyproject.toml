@@ -10,7 +10,11 @@ dependencies = [
     "google-generativeai>=0.8.5",
     "openai>=1.97.0",
     "peft>=0.16.0",
+    "redis>=6.2.0",
     "scikit-learn>=1.7.0",
     "streamlit>=1.46.1",
     "torch>=2.7.1",
+    "transformers>=4.53.2",
+    "trl>=0.19.1",
+    "uuid>=1.30",
 ]

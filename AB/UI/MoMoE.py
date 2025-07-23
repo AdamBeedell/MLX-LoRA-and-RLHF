@@ -168,7 +168,7 @@ def query_mixtral(history):
 
 def get_provider_avatar(pid):
     avatar_lookup = {
-        0: "☸😮",     # OpenAI
+        0: "😮",     # OpenAI
         1: "🌈",     # Gemini
         2: "🥖",     # Mixtral
         3: "🤖",     # Claude

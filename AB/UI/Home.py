@@ -9,6 +9,7 @@ pages={
         st.Page("MoMoe.py", title="MoMoe"),
         st.Page("TLDR.py", title="Summa.ry"),
         st.Page("Ui.py", title="RLHF"),
+        st.Page("Andrei.py", title="AndreiSFTPPO")
     ]
 }
 

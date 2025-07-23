@@ -77,7 +77,7 @@ def query_lm_studio(user_input, prompt_suffix):
     }
 
     try:
-        response = requests.post("http://localhost:1234/v1/chat/completions", json=payload)
+        response = requests.post("http://host.docker.internal:1234/v1/chat/completions", json=payload)
         response.raise_for_status()
         return response.json()["choices"][0]["message"]["content"]
     except Exception as e:
